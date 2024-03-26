@@ -1,0 +1,32 @@
+.container{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url('https://img.freepik.com/free-photo/blue-smooth-wall-textured-background_53876-106133.jpg?size=626&ext=jpg&ga=GA1.2.1211982432.1675417347&semt=ais');
+    height: 100vh;
+    background-size: cover;
+  }
+  .Signup{
+    background-color: blue;
+    color:white;
+    border-radius: 7px;
+    border-width: 0px;
+    width: 80px;
+    height: 30px;
+    text-align: center;
+  }
+  .btncontainer{
+    text-align: center;
+  }
+  .layout{
+    color:white;
+    padding:20px
+  }
+  .layout2{
+    color:white;
+    padding:23px
+  }
+  .input{
+    margin:49px
+  }
